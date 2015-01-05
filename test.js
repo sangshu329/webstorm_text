@@ -3,4 +3,5 @@
  */
 function test() {
     alert('b');
+    alert('c');
 }
